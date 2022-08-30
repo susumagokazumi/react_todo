@@ -2,7 +2,7 @@ import React from "react";
 import "./styles.css";
 import { InputTodo } from "./components/InputTodo";
 import { IncompleteTodos } from "./components/IncompleteTodos";
-
+//konnkonn
 export const App = () => {
   const { useEffect, useState } = React;
   const [todoText, setTodoText] = useState("");
